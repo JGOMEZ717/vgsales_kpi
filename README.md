@@ -1,4 +1,5 @@
 # vgsales_kpi
+
 Analytics project
 
 This project analyzes global video game sales data to uncover key performance insights across platforms,

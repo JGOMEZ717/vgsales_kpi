@@ -73,9 +73,14 @@ this project delivers actionable insights into game sales across different platf
 
 ##  Recommendations
 
-- Focus marketing campaigns on customers aged **30–39** and married for higher conversion potential.
-- Prioritize **cellular contact methods** over telephone or unknown methods.
-- Increase campaign activity in **Q2**, especially **May**, based on past success.
+- Since **global sales declined significantly after 2008**,
+  particularly due to fewer game releases, publishers should explore digital distribution,
+  subscription models, and cross-platform releases to boost accessibility and reach.
+  
+- **Gameboy** having the highest average sales per game suggest a **market for handheld consoles**.
+  
+- **Nintendo's** dominance in global sales highlights the power of strong publisher branding.
+  Emerging publishers should focus on building **franchises** and consistent quality to create brand loyalty.
 
 ---
 

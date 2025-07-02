@@ -101,13 +101,14 @@ this project delivers actionable insights into game sales across different platf
 ## Gallary
 - Queries used in postgres
 
-![Question_1](decline.png)  
+![Question_1](declinetrend.png)  ![Question_1](declinetrend2.png) 
 
-![Question_2](game_trend.png)  
+![Question_2](gametrend.png)  
 
-![Question_3](genre_global.png)  
+![Question_3](genreglobal.png)  
 
-![Question_4](platform_avg.png)  
+![Question_4](platformavg.png)  
 
+![Question_5](topplatform.png)  
 - Dashboard Preview
 ![Dashboard Screenshot](vgsales_dash.png)
